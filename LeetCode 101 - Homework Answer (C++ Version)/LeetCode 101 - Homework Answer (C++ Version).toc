@@ -1,0 +1,113 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}题目分类}{1}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}贪心算法}{2}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/can-place-flowers/}{605. Can Place Flowers (Easy)}}{2}{section*.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons/}{452. Minimum Number of Arrows to Burst Balloons (Medium)}}{4}{lstnumber.-4.24}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/partition-labels/}{763. Partition Labels (Medium)}}{5}{lstnumber.-6.17}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/}{122. Best Time to Buy and Sell Stock II (Easy)}}{5}{lstnumber.-8.17}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}双指针}{7}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/sum-of-square-numbers/}{633. Sum of Square Numbers (Easy)}}{7}{section*.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/valid-palindrome-ii/}{680. Valid Palindrome II (Easy)}}{7}{lstnumber.-13.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/longest-word-in-dictionary-through-deleting/}{524. Longest Word in Dictionary through Deleting (Medium)}}{8}{lstnumber.-15.21}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}二分查找}{10}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/}{154. Find Minimum in Rotated Sorted Array II (Medium)}}{10}{section*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/single-element-in-a-sorted-array/}{540. Single Element in a Sorted Array (Medium)}}{10}{lstnumber.-19.15}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}排序算法}{12}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/sort-characters-by-frequency/}{451. Sort Characters By Frequency (Medium)}}{12}{section*.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/sort-colors/}{75. Sort Colors (Medium)}}{13}{lstnumber.-25.22}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}搜索算法}{15}{chapter.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/surrounded-regions/}{130. Surrounded Regions (Medium)}}{15}{section*.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/binary-tree-paths/}{257. Binary Tree Paths (Easy)}}{17}{lstnumber.-31.52}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}动态规划}{20}{chapter.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/house-robber-ii/}{213. House Robber II (Medium)}}{20}{section*.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/maximum-subarray/}{53. Maximum Subarray (Easy)}}{21}{lstnumber.-36.19}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}分治法}{22}{chapter.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/beautiful-array/}{932. Beautiful Array (Medium)}}{22}{section*.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/burst-balloons/}{312. Burst Balloons (Hard)}}{23}{lstnumber.-40.22}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}数学问题}{25}{chapter.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/excel-sheet-column-title/}{168. Excel Sheet Column Title (Easy)}}{25}{section*.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/add-binary/}{67. Add Binary (Easy)}}{25}{lstnumber.-45.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/product-of-array-except-self/}{238. Product of Array Except Self (Medium)}}{27}{lstnumber.-48.28}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {10}位运算}{29}{chapter.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/missing-number/}{268. Missing Number (Easy)}}{29}{section*.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/binary-number-with-alternating-bits/}{693. Binary Number with Alternating Bits (Easy)}}{30}{lstnumber.-54.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/number-complement/submissions/}{476. Number Complement (Easy)}}{30}{lstnumber.-57.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/single-number-iii/}{260. Single Number III (Medium)}}{31}{lstnumber.-59.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {11}数据结构}{33}{chapter.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/reshape-the-matrix/}{566. Reshape the Matrix (Easy)}}{33}{section*.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/implement-stack-using-queues/}{225. Implement Stack using Queues (Easy)}}{33}{lstnumber.-64.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/next-greater-element-ii/}{503. Next Greater Element II (Medium)}}{35}{lstnumber.-67.29}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/contains-duplicate/}{217. Contains Duplicate (Easy)}}{36}{lstnumber.-69.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {12}字符串}{38}{chapter.12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/longest-palindrome/}{409. Longest Palindrome (Easy)}}{38}{section*.12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/longest-substring-without-repeating-characters/}{3. Longest Substring Without Repeating Characters (Medium)}}{38}{lstnumber.-74.14}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {13}链表}{40}{chapter.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/remove-duplicates-from-sorted-list/}{83. Remove Duplicates from Sorted List (Easy)}}{40}{section*.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/odd-even-linked-list/}{328. Odd Even Linked List (Medium)}}{40}{lstnumber.-78.16}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/remove-nth-node-from-end-of-list/}{19. Remove Nth Node From End of List (Medium)}}{41}{lstnumber.-80.16}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/sort-list/}{148. Sort List (Medium)}}{42}{lstnumber.-83.16}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {14}树}{46}{chapter.14}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/invert-binary-tree/}{226. Invert Binary Tree (Easy)}}{46}{section*.14}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/merge-two-binary-trees/}{617. Merge Two Binary Trees (Easy)}}{46}{lstnumber.-88.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/diameter-of-binary-tree/}{572. Subtree of Another Tree (Easy)}}{48}{lstnumber.-91.49}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/sum-of-left-leaves/}{404. Sum of Left Leaves (Easy)}}{52}{lstnumber.-95.53}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/find-bottom-left-tree-value/}{513. Find Bottom Left Tree Value (Easy)}}{53}{lstnumber.-99.31}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\href {https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/}{235. Lowest Common Ancestor of a Binary Search Tree (Easy)}}{55}{lstnumber.-102.17}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {15}图}{57}{chapter.15}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {16}更加复杂的数据结构}{58}{chapter.16}%
